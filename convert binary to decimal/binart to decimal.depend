@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566605695 source:c:\users\samiran bar\desktop\cprogramming\binart to decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

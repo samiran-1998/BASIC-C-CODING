@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1570135457 source:c:\users\samiran bar\desktop\cprogramming\find the power of name\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
