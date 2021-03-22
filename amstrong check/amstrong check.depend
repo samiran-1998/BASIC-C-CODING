@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566635180 source:c:\users\samiran bar\desktop\cprogramming\amstrong check\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
